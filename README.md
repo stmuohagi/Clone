@@ -1,2 +1,2 @@
 # Clone
-Making changes
+Making changes to the README file in RStudio
